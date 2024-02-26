@@ -1,6 +1,6 @@
 var countryZoneList = {
 "United Kingdom": "C",
-"United States": "",
+"United States": "A",
 "Afghanistan": "E",
 "Albania": "E",
 "Algeria": "N",
