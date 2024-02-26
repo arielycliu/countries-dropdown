@@ -94,7 +94,7 @@ var countryZoneList = {
 "Iran": "E",
 "Iraq": "E",
 "Ireland": "C",
-"Israel": "M"
+"Israel": "M",
 "Italy": "C",
 "Jamaica": "K",
 "Japan": "F",
