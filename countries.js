@@ -41,7 +41,7 @@ var countryZoneList = {
 "Central African Republic": "N",
 "Chad": "N",
 "Chile": "L",
-"China": "G"
+"China": "G",
 "Colombia": "L",
 "Comoros": "N",
 "Congo": "N",
