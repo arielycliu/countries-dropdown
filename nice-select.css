@@ -1,3 +1,28 @@
+.calculator {
+	display: flex !important;
+}
+
+.list{
+  max-height:30vh;
+  overflow:scroll !important;}
+  .nice-select{
+  border-radius:10px;
+  width:100%;
+}
+
+.nice-select .option{
+  font-family: ubuntu, system-ui;
+}
+.w-select {
+	background-color: #f7f7f770;
+  border: 1px solid #000;
+  font-size: 15px;
+}
+.nice-select::after {
+  border-bottom: 2px solid #000;
+  border-right: 2px solid #000;
+}
+
 .nice-select {
   -webkit-tap-highlight-color: transparent;
   
