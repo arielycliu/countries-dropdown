@@ -1,4 +1,4 @@
-<select id="countries" name="countries">
+var countries = '
 <option value="AF">Afghanistan</option>
 <option value="AX">Åland Islands</option>
 <option value="AL">Albania</option>
@@ -242,5 +242,4 @@
 <option value="EH">Western Sahara</option>
 <option value="YE">Yemen</option>
 <option value="ZM">Zambia</option>
-<option value="ZW">Zimbabwe</option>
-</select>
+<option value="ZW">Zimbabwe</option>'
